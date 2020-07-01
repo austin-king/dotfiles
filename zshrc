@@ -1,6 +1,6 @@
 # ZSH configuration
 # Path to oh-my-zsh installation.
-export ZSH="/Users/austinking/.oh-my-zsh"
+export ZSH="/Users/$USER/.oh-my-zsh"
 # Uncomment the following line to automatically update zsh without prompting.
 DISABLE_UPDATE_PROMPT="true"
 # Standard plugins can be found in $ZSH/plugins/

@@ -66,3 +66,5 @@ alias 'tk=t kill-session -t'
 alias 'tks=t kill-server'
 alias 'ts=t switch -t'
 alias 'tls=t ls'
+# terminal
+alias 'c=clear'

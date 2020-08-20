@@ -58,6 +58,8 @@ alias 'grc=git rebase --continue'
 alias 'grs=git rebase --skip'
 alias 'gunstage=git reset HEAD'
 alias 'gundo=git reset --soft HEAD~1'
+alias 'gg=git grep -n'
+alias 'ggi=git grep -n -i'
 # tmux 
 alias 't=tmux'
 alias 'ta=t attach -t'

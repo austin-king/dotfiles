@@ -70,3 +70,4 @@ alias 'ts=t switch -t'
 alias 'tls=t ls'
 # terminal
 alias 'c=clear'
+alias 'yeet=rm -rf'

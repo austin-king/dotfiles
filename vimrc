@@ -17,8 +17,8 @@ set relativenumber
 set number " shows real number for line I'm on
 
 " tab and indenting settings
-set expandtab " automatically turns tabs into spaces
-set shiftwidth=2
+set expandtab autoindent tabstop=2 shiftwidth=2
+
 
 " Color
 let base16colorspace=256  " Access colors present in 256 colorspace

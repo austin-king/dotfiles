@@ -58,6 +58,8 @@ alias 'grc=git rebase --continue'
 alias 'grs=git rebase --skip'
 alias 'gunstage=git reset HEAD'
 alias 'gundo=git reset --soft HEAD~1'
+alias 'gg=git grep -n'
+alias 'ggi=git grep -n -i'
 # tmux 
 alias 't=tmux'
 alias 'ta=t attach -t'
@@ -68,6 +70,7 @@ alias 'ts=t switch -t'
 alias 'tls=t ls'
 # terminal
 alias 'c=clear'
+alias 'yeet=rm -rf'
 # Spencer and zach's websites
 alias 'zachWebsite=gcloud beta compute ssh --zone "us-central1-a" "zach-website" --project "spencer-zach-websites"'
 alias 'spencerWebsite=gcloud beta compute ssh --zone "us-central1-a" "spencer-website" --project "spencer-zach-websites"'
